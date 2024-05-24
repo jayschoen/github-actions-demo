@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  ECR_REPOSITORY: flask-app
+  ECR_REPOSITORY: github-actions-demo
   EKS_CLUSTER_NAME: github-actions-demo 
   AWS_REGION: us-east-1
 
