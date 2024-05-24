@@ -7,7 +7,7 @@ on:
 
 env:
   ECR_REPOSITORY: github-actions-demo
-  EKS_CLUSTER_NAME: github-actions-demo 
+  EKS_CLUSTER_NAME: gha-demo 
   AWS_REGION: us-east-1
 
 jobs:
